@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karengharibyan/threejs-test/static/css/main.03c88fd1.css",
+    "main.js": "/karengharibyan/threejs-test/static/js/main.725a399d.js",
+    "static/js/787.81d8f8e5.chunk.js": "/karengharibyan/threejs-test/static/js/787.81d8f8e5.chunk.js",
+    "index.html": "/karengharibyan/threejs-test/index.html",
+    "main.03c88fd1.css.map": "/karengharibyan/threejs-test/static/css/main.03c88fd1.css.map",
+    "main.725a399d.js.map": "/karengharibyan/threejs-test/static/js/main.725a399d.js.map",
+    "787.81d8f8e5.chunk.js.map": "/karengharibyan/threejs-test/static/js/787.81d8f8e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03c88fd1.css",
+    "static/js/main.725a399d.js"
+  ]
+}
